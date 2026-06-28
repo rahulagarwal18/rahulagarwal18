@@ -94,6 +94,10 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
 
 Here are some of my highlighted projects that demonstrate my skills in computer vision, deep learning, full-stack development, and IoT integrations.
 
+### 🌌 [GitPulse — Cinematic Developer Storyteller](https://github.com/rahulagarwal18/gitpulse)
+* **Description**: A premium, interactive web application that transforms standard GitHub profiles and repository logs into glowing, animated contribution universes.
+* **Stack**: `HTML5 Canvas` • `CSS (Glassmorphism)` • `GSAP (Animations)` • `JavaScript`
+
 ### 🛠️ [Live OMR Scanner System](https://github.com/rahulagarwal18/omrscanner)
 * **Description**: A real-time OMR sheets scanning pipeline featuring camera integration. It automates result grading and exports clean CSV reports.
 * **Stack**: `Python` • `OpenCV` • `Flask` • `SQLite`
