@@ -16,7 +16,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rahulagarwal18&amp;theme=radical&amp;no-bg=true&amp;no-frame=true" alt="github profile trophy" />
+    <img src="https://github-trophies.vercel.app/?username=rahulagarwal18&amp;theme=radical&amp;no-bg=true&amp;no-frame=true" alt="github profile trophy" />
   </a>
 </p>
 
