@@ -9,7 +9,7 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/rahulagarwal18?color=8b5cf6&style=flat-square&label=TOTAL+STARS" alt="Stars" />
   &nbsp;&nbsp;
-  <a href="https://rahulagarwal.tech/gitpulse" target="_blank">
+  <a href="https://rahul-agarwal.in/gitpulse" target="_blank">
     <img src="https://img.shields.io/badge/GitPulse-Universe_Explorer-3b82f6?style=flat-square&logo=github&logoColor=white" alt="GitPulse Universe" />
   </a>
 </p>
@@ -40,7 +40,7 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://rahulagarwal.tech" target="_blank">
+  <a href="https://rahul-agarwal.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=222" alt="Portfolio" />
   </a>
   &nbsp;&nbsp;
@@ -104,8 +104,8 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
 
 Here are some of my highlighted projects that demonstrate my skills in computer vision, deep learning, full-stack development, and IoT integrations.
 
-### 🌌 [GitPulse — Cinematic Developer Storyteller](https://rahulagarwal.tech/gitpulse)
-* **Live Application**: [rahulagarwal.tech/gitpulse](https://rahulagarwal.tech/gitpulse)
+### 🌌 [GitPulse — Cinematic Developer Storyteller](https://rahul-agarwal.in/gitpulse)
+* **Live Application**: [rahul-agarwal.in/gitpulse](https://rahul-agarwal.in/gitpulse)
 * **Description**: A premium, interactive web application that transforms standard GitHub profiles and repository logs into glowing, animated contribution universes. Includes **Stellar Duel** comparison mode to duel with other developers live!
 * **Stack**: `HTML5 Canvas` • `CSS (Glassmorphism)` • `GSAP (Animations)` • `JavaScript`
 
