@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/followers/rahulagarwal18?color=06b6d4&style=flat-square&label=FOLLOWERS" alt="Followers" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/github/stars/rahulagarwal18?color=8b5cf6&style=flat-square&label=TOTAL+STARS" alt="Stars" />
+  &nbsp;&nbsp;
+  <a href="https://rahulagarwal.tech/gitpulse" target="_blank">
+    <img src="https://img.shields.io/badge/GitPulse-Universe_Explorer-3b82f6?style=flat-square&logo=github&logoColor=white" alt="GitPulse Universe" />
+  </a>
 </p>
 
 ---
@@ -94,8 +98,9 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
 
 Here are some of my highlighted projects that demonstrate my skills in computer vision, deep learning, full-stack development, and IoT integrations.
 
-### 🌌 [GitPulse — Cinematic Developer Storyteller](https://github.com/rahulagarwal18/gitpulse)
-* **Description**: A premium, interactive web application that transforms standard GitHub profiles and repository logs into glowing, animated contribution universes.
+### 🌌 [GitPulse — Cinematic Developer Storyteller](https://rahulagarwal.tech/gitpulse)
+* **Live Application**: [rahulagarwal.tech/gitpulse](https://rahulagarwal.tech/gitpulse)
+* **Description**: A premium, interactive web application that transforms standard GitHub profiles and repository logs into glowing, animated contribution universes. Includes **Stellar Duel** comparison mode to duel with other developers live!
 * **Stack**: `HTML5 Canvas` • `CSS (Glassmorphism)` • `GSAP (Animations)` • `JavaScript`
 
 ### 🛠️ [Live OMR Scanner System](https://github.com/rahulagarwal18/omrscanner)
