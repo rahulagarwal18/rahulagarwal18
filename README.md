@@ -138,6 +138,10 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 
 ## 📈 GitHub Insights
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulagarwal18&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Rahul's Activity Graph" width="100%" />
+</p>
+
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
