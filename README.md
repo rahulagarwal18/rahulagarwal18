@@ -15,7 +15,9 @@
 </p>
 
 <p align="center">
-  [![github profile trophy](https://github-profile-trophy.vercel.app/?username=rahulagarwal18&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulagarwal18&amp;theme=radical&amp;no-bg=true&amp;no-frame=true" alt="github profile trophy" />
+  </a>
 </p>
 
 ---
