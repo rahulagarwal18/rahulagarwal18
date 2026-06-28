@@ -129,24 +129,43 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 
 ---
 
+## 📈 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## 📈 GitHub Insights
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulagarwal18&show_icons=true&theme=tokyonight&hide_border=true&title_color=3b82f6&icon_color=06b6d4&text_color=ffffff&bg_color=09090b" alt="Rahul's GitHub Stats" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="Rahul's GitHub Stats" height="195" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6&text_color=ffffff&bg_color=09090b" alt="Top Languages" height="195" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" height="195" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2" valign="middle">
       <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&theme=tokyonight&hide_border=true&stroke=000000&background=09090b&ring=3b82f6&fire=06b6d4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=3b82f6" alt="GitHub Streak" width="100%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&hide_border=true&stroke=000000&background=000000&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff" alt="GitHub Streak" width="100%" />
     </td>
   </tr>
 </table>
+
+---
+
+## 🐍 Contribution Constellation
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulagarwal18/rahulagarwal18/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulagarwal18/rahulagarwal18/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/rahulagarwal18/rahulagarwal18/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <p align="center">
   <i>"Code is not just instructions; it is the infrastructure of tomorrow."</i>
