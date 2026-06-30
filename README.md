@@ -162,10 +162,10 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="Rahul's GitHub Stats" height="195" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="Rahul's GitHub Stats" height="195" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" height="195" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" height="195" />
     </td>
   </tr>
   <tr>
