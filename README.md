@@ -135,6 +135,13 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 
 ---
 
+## ✍️ Latest Tech Articles
+
+<!-- blog starts -->
+<!-- blog ends -->
+
+---
+
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
