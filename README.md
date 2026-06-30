@@ -104,6 +104,10 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
 
 Here are some of my highlighted projects that demonstrate my skills in computer vision, deep learning, full-stack development, and IoT integrations.
 
+### 🧠 [NeuralDocs — Intelligent AI Document RAG System](https://github.com/rahulagarwal18/NeuralDocs)
+* **Description**: An advanced enterprise-grade Retrieval-Augmented Generation (RAG) pipeline built using LangChain, FAISS, and Meta's Llama-3.3 LLM. Allows users to upload massive PDFs and semantically query them in real-time through a stunning glassmorphism web interface.
+* **Stack**: `Python` • `Flask` • `LangChain` • `FAISS` • `Llama-3` • `Groq API` • `HuggingFace`
+
 ### 🌌 [GitPulse — Cinematic Developer Storyteller](https://rahul-agarwal.in/gitpulse)
 * **Live Application**: [rahul-agarwal.in/gitpulse](https://rahul-agarwal.in/gitpulse)
 * **Description**: A premium, interactive web application that transforms standard GitHub profiles and repository logs into glowing, animated contribution universes. Includes **Stellar Duel** comparison mode to duel with other developers live!
