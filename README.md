@@ -31,6 +31,13 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
 - 🧠 **Focus Areas**: Computer Vision, Vision AI pipelines, automation workflows, and building premium full-stack products.
 - 🚀 **Mission**: Bridging complex backend algorithms and AI models with stunning, intuitive user interfaces.
 
+<br>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bc0KhhjJP98" target="_blank">
+    <img src="music-player.svg" alt="Now Playing: Come and Get Your Love" />
+  </a>
+</p>
+
 ---
 
 ## 🔗 Connect With Me
