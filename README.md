@@ -142,6 +142,11 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 ## ✍️ Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Passion Pilot - AI-Powered Learning Journeys](https://dev.to/rahul_agarwal18/passion-pilot-ai-powered-learning-journeys-12ll)
+- [The Reality of AI and Tech Layoffs in India &lpar;And How to Survive Them&rpar;](https://dev.to/rahul_agarwal18/the-reality-of-ai-and-tech-layoffs-in-india-and-how-to-survive-them-11k0)
+- [HTMX vs React: When to Actually Use Which in 2026](https://dev.to/rahul_agarwal18/htmx-vs-react-when-to-actually-use-which-in-2026-4fd7)
+- [The Rise of DeepSeek and Qwen: Are Western LLMs Losing Their Moat?](https://dev.to/rahul_agarwal18/the-rise-of-deepseek-and-qwen-are-western-llms-losing-their-moat-45cl)
+- [The End of useMemo: Why React 19&#39;s Compiler is a Game Changer](https://dev.to/rahul_agarwal18/the-end-of-usememo-why-react-19s-compiler-is-a-game-changer-4nd0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
