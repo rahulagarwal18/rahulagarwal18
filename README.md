@@ -158,6 +158,13 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 
 ---
 
+## 📊 Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
