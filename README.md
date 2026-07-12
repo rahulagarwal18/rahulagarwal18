@@ -40,6 +40,18 @@ I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India.
 
 ---
 
+## 📟 Terminal Resume
+
+Want to see something cool? If you have Node.js installed, pop open your terminal and run:
+
+```bash
+npx rahulagarwal18
+```
+
+You'll see an interactive, hacker-style resume card! 
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
