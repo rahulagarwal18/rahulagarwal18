@@ -149,9 +149,9 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 ## 📈 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/rahulagarwal18/rahulagarwal18/issues/3) in [rahulagarwal18/rahulagarwal18](https://github.com/rahulagarwal18/rahulagarwal18)
-2. ❗ Opened issue [#2](https://github.com/rahulagarwal18/rahulagarwal18/issues/2) in [rahulagarwal18/rahulagarwal18](https://github.com/rahulagarwal18/rahulagarwal18)
-3. ❗ Opened issue [#1](https://github.com/rahulagarwal18/rahulagarwal18/issues/1) in [rahulagarwal18/rahulagarwal18](https://github.com/rahulagarwal18/rahulagarwal18)
+1. ❗ Opened issue [#1](https://github.com/rahulagarwal18/github-achievements-test/issues/1) in [rahulagarwal18/github-achievements-test](https://github.com/rahulagarwal18/github-achievements-test)
+2. 🔒 Closed issue [#1](https://github.com/rahulagarwal18/github-achievements-test/issues/1) in [rahulagarwal18/github-achievements-test](https://github.com/rahulagarwal18/github-achievements-test)
+3. ❗ Opened issue [#3](https://github.com/rahulagarwal18/rahulagarwal18/issues/3) in [rahulagarwal18/rahulagarwal18](https://github.com/rahulagarwal18/rahulagarwal18)
 <!--END_SECTION:activity-->
 
 ---
