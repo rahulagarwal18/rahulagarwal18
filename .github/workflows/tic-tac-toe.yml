@@ -1,0 +1,42 @@
+name: Play Tic-Tac-Toe
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'ttt|')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Run Game Engine
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+        run: |
+          python play_ttt.py
+          
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Play Tic-Tac-Toe Move" || exit 0
+          git pull --rebase origin main
+          git push
+          
+      - name: Close Issue
+        uses: peter-evans/close-issue@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "Move processed! Check the README for the updated board."

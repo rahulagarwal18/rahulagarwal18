@@ -247,3 +247,20 @@ No Activity Tracked This Week
 <p align="center">
   <i>"Code is not just instructions; it is the infrastructure of tomorrow."</i>
 </p>
+
+---
+
+## 🎮 Play Tic-Tac-Toe with my AI!
+
+Click on any white square `⬜` to make your move! An issue will open—just click **Submit new issue** and the AI will automatically play its turn and update this board!
+
+<!-- TTT_BOARD_START -->
+**New game started! You are ❌. Your turn!**
+
+| | | |
+|---|---|---|
+| [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C0&body=Just+click+Submit+new+issue+to+play+your+move!) | [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C1&body=Just+click+Submit+new+issue+to+play+your+move!) | [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C2&body=Just+click+Submit+new+issue+to+play+your+move!) |
+| [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C3&body=Just+click+Submit+new+issue+to+play+your+move!) | [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C4&body=Just+click+Submit+new+issue+to+play+your+move!) | [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C5&body=Just+click+Submit+new+issue+to+play+your+move!) |
+| [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C6&body=Just+click+Submit+new+issue+to+play+your+move!) | [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C7&body=Just+click+Submit+new+issue+to+play+your+move!) | [⬜](https://github.com/rahulagarwal18/rahulagarwal18/issues/new?title=ttt%7C8&body=Just+click+Submit+new+issue+to+play+your+move!) |
+
+<!-- TTT_BOARD_END -->
