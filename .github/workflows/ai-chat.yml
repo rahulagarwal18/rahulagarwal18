@@ -1,0 +1,51 @@
+name: Profile AI Agent
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  issues: write
+
+jobs:
+  reply-to-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          
+      - name: Run AI Chat Agent
+        id: run_agent
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          python chat_agent.py > output.txt
+          
+          # Check if the script ignored the issue
+          if grep -q "This issue is not a chat request" output.txt; then
+            echo "Skipping, not a chat."
+            echo "skip=true" >> $GITHUB_OUTPUT
+            exit 0
+          fi
+          
+          # Extract the reply
+          sed -n '/===BOT_REPLY_START===/,/===BOT_REPLY_END===/p' output.txt | sed '1d;$d' > reply.txt
+          
+          # Escape for multiline github step output
+          EOF=$(dd if=/dev/urandom bs=15 count=1 status=none | base64)
+          echo "reply<<$EOF" >> $GITHUB_OUTPUT
+          cat reply.txt >> $GITHUB_OUTPUT
+          echo "$EOF" >> $GITHUB_OUTPUT
+
+      - name: Post Comment
+        if: steps.run_agent.outputs.skip != 'true'
+        uses: peter-evans/create-or-update-comment@v3
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          body: ${{ steps.run_agent.outputs.reply }}
