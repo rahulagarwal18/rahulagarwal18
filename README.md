@@ -173,20 +173,18 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 ## 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-Saturday                 89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Sunday                   121 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Monday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Tuesday                  115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+Saturday                 92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Sunday                   172 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 ```
 
 
@@ -198,7 +196,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/07/2026 14:23:10 UTC
+ Last Updated on 13/07/2026 03:20:57 UTC
 <!--END_SECTION:waka-->
 
 ---
