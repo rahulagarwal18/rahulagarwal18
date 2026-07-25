@@ -175,28 +175,8 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue?style=flat)
 
-📅 **I'm Most Productive on Sunday** 
 
-```text
-Monday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Saturday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Sunday                   180 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 24/07/2026 02:54:25 UTC
+ Last Updated on 25/07/2026 02:53:53 UTC
 <!--END_SECTION:waka-->
 
 ---
