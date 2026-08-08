@@ -173,10 +173,38 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 ## 📊 Weekly Coding Stats
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
+📅 **I'm Most Productive on Sunday** 
 
- Last Updated on 07/08/2026 02:48:38 UTC
+```text
+Monday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Tuesday                  117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Thursday                 129 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Friday                   147 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Saturday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Sunday                   184 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+
+ Last Updated on 08/08/2026 01:50:45 UTC
 <!--END_SECTION:waka-->
 
 ---
