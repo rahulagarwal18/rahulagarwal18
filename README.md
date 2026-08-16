@@ -175,7 +175,7 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -204,7 +204,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/08/2026 01:23:32 UTC
+ Last Updated on 16/08/2026 01:29:26 UTC
 <!--END_SECTION:waka-->
 
 ---
