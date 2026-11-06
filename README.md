@@ -161,11 +161,11 @@ Here are some of my highlighted projects that demonstrate my skills in computer 
 ## ✍️ Latest Tech Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [I built a private, offline AI chat you can run with one command: npx unmuzzled](https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl)
 - [How I Built a Safe, Anti-Ban LinkedIn MCP Server for AI Agents &lpar;Claude &amp; Cursor&rpar;](https://dev.to/rahul_agarwal18/how-i-built-a-safe-anti-ban-linkedin-mcp-server-for-ai-agents-claude-cursor-15o0)
 - [OKF vs RAG: Why RAG Alone is Failing Enterprise AI Agents &lpar;And What&#39;s Next&rpar;](https://dev.to/rahul_agarwal18/okf-vs-rag-why-rag-alone-is-failing-enterprise-ai-agents-and-whats-next-2d34)
 - [How I Legally Slashed Anthropic Claude API &amp; Claude Code Bills by 70%](https://dev.to/rahul_agarwal18/how-i-legally-slashed-anthropic-claude-api-claude-code-bills-by-70-19b4)
 - [Passion Pilot - AI-Powered Learning Journeys](https://dev.to/rahul_agarwal18/passion-pilot-ai-powered-learning-journeys-12ll)
-- [The Reality of AI and Tech Layoffs in India &lpar;And How to Survive Them&rpar;](https://dev.to/rahul_agarwal18/the-reality-of-ai-and-tech-layoffs-in-india-and-how-to-survive-them-11k0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
