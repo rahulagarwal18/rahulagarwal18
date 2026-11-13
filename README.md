@@ -1,256 +1,87 @@
 <p align="center">
-  <img src="banner.png" alt="Rahul Agarwal Banner" width="100%" style="border-radius: 8px;" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulagarwal18&color=3b82f6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/rahulagarwal18?color=06b6d4&style=flat-square&label=FOLLOWERS" alt="Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/rahulagarwal18?color=8b5cf6&style=flat-square&label=TOTAL+STARS" alt="Stars" />
-  &nbsp;&nbsp;
-  <a href="https://rahul-agarwal.in/gitpulse" target="_blank">
-    <img src="https://img.shields.io/badge/GitPulse-Universe_Explorer-3b82f6?style=flat-square&logo=github&logoColor=white" alt="GitPulse Universe" />
+  <a href="https://www.rahul-agarwal.in">
+    <img src="banner.png" alt="Rahul Agarwal — I build AI that actually ships." width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-trophies.vercel.app/?username=rahulagarwal18&amp;theme=radical&amp;no-bg=true&amp;no-frame=true" alt="github profile trophy" />
-  </a>
+  <a href="https://www.rahul-agarwal.in"><img src="https://img.shields.io/badge/Portfolio-rahul--agarwal.in-ff7a3d?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rahul-agarwal-ai"><img src="https://img.shields.io/badge/LinkedIn-rahul--agarwal--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/rahul_agarwal18"><img src="https://img.shields.io/badge/dev.to-27_articles-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://www.npmjs.com/~rahulagarwal18"><img src="https://img.shields.io/badge/npm-rahulagarwal18-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="mailto:rahulagaral1@gmail.com"><img src="https://img.shields.io/badge/Email-rahulagaral1%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+## Hi, I'm Rahul 👋
 
-## ⚡ About Me
+I'm an **AI engineer and full-stack developer in Bengaluru**. I turn large language models into products people actually use, from offline inference on a laptop to MCP servers for AI agents and the systems a business runs on every day.
 
-I'm **Rahul Agarwal**, a Full Stack Developer & AI/ML Specialist based in India. I specialize in building intelligent automation systems, advanced computer vision applications, and high-fidelity web experiences.
+- 💼 **Now:** AI Engineer & Full-Stack Developer at **Aryan News Agency**, sole engineer for the company's web platform and in-house accounting system.
+- 🧪 **Before:** Founder's Intern & Full-Stack Developer at **InferWorks**, building LLM agents that cut query turnaround by ~60%.
+- 🏆 **Recognition:** UN Millennium Fellow (2025–26) · National Science Day, 1st place 2025 and 2nd place 2024.
+- 🎓 **Education:** BCA, CHRIST (Deemed to be University), Bengaluru.
 
-- 🎓 **Education**: BCA student focusing on AI, scalable architectures, and advanced data systems.
-- 💼 **Recent Experience**: Founder's Intern & Full Stack Developer at **InferWorks** (Nov 2025 – Feb 2026).
-- 🧠 **Focus Areas**: Computer Vision, Vision AI pipelines, automation workflows, and building premium full-stack products.
-- 🚀 **Mission**: Bridging complex backend algorithms and AI models with stunning, intuitive user interfaces.
+## 🚀 What I'm shipping
 
-<br>
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=bc0KhhjJP98" target="_blank">
-    <img src="music-player.svg" alt="Now Playing: Come and Get Your Love" />
-  </a>
-</p>
+| Project | What it does | Proof |
+|---|---|---|
+| **[Unmuzzled](https://github.com/rahulagarwal18/unmuzzled)** | Private, offline AI chat. Runs open-weight LLMs on your own machine with one command: `npx unmuzzled` | [![npm](https://img.shields.io/npm/dt/unmuzzled?label=downloads&color=ff7a3d&style=flat-square)](https://www.npmjs.com/package/unmuzzled) |
+| **[ClaudeCut](https://github.com/rahulagarwal18/ClaudeCut)** | Drop-in local proxy that cuts Claude API & Claude Code bills by 40–70% with correct prompt caching and model routing | [![npm](https://img.shields.io/npm/dt/claudecut?label=downloads&color=ff7a3d&style=flat-square)](https://www.npmjs.com/package/claudecut) |
+| **[LinkedIn Guardrail MCP](https://github.com/rahulagarwal18/Linkedin_MCP)** | Account-safe MCP server that lets Claude, Cursor and Windsurf work on LinkedIn: jobs, profiles, posts, messages | [write-up](https://dev.to/rahul_agarwal18/how-i-built-a-safe-anti-ban-linkedin-mcp-server-for-ai-agents-claude-cursor-15o0) |
+| **[NeuralDocs](https://github.com/rahulagarwal18/NeuralDocs)** | RAG over large PDFs: FAISS + Llama 3 on Groq, sub-second answers cited to the exact source | `Python` `LangChain` `FAISS` |
+| **[rahul-agarwal.in](https://www.rahul-agarwal.in)** | My portfolio. Runs a real LLM in your browser on WebGPU, no framework, Lighthouse 100 | [write-up](https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8) |
 
----
+<details>
+<summary><b>More builds</b></summary>
+<br />
 
-## 📟 Terminal Resume
+| Project | Description |
+|---|---|
+| [GitPulse](https://github.com/rahulagarwal18/gitpulse) · [live](https://rahulagarwal18.github.io/gitpulse/) | Turns GitHub history into an animated, cinematic developer universe |
+| [Campus 360 View](https://github.com/rahulagarwal18/yprstreetview) · [live](https://rahulagarwal18.github.io/yprstreetview/) | Interactive 360° campus navigation guide. National Science Day 2025, 1st place |
+| [TicketSlayer AI](https://github.com/rahulagarwal18/TicketSlayerAI) | Slack agent that turns messy support chats into clean GitHub Issues with Llama 3 |
+| [AI Resume Screener](https://github.com/rahulagarwal18/ai-resume-screener) · [live](https://ai-resume-screener-gules.vercel.app) | Ranks resumes against a job description with embeddings and gap analysis |
+| [ReconcileAI](https://github.com/rahulagarwal18/parsing) · [live](https://parsing-phi.vercel.app) | Compares PDFs against spreadsheet records with LlamaParse and Gemini |
+| [DeepDecompile](https://github.com/rahulagarwal18/deep-decompile) | Turns minified production bundles back into readable TypeScript and React |
+| [OMR Scanner](https://github.com/rahulagarwal18/omrscanner) | Real-time bubble-sheet grading with OpenCV from a live camera feed |
+| [Face Recognition Attendance](https://github.com/rahulagarwal18/Automation-Project-) | Real-time face identification and attendance logging with OpenCV and Flask |
+| [GlassHUD](https://github.com/rahulagarwal18/glasshud) | Visual glassmorphism CSS builder |
+| [Passion Pilot](https://github.com/rahulagarwal18/passion-pilot) · [live](https://passion-pilot-three.vercel.app) | AI roadmap generator for learning any hobby (DEV.to hackathon) |
 
-Want to see something cool? If you have Node.js installed, pop open your terminal and run:
+</details>
+
+## 🛠️ Stack
+
+**AI & LLMs** — LLM agents · MCP · RAG · LangChain · FAISS · embeddings · Claude API (prompt caching) · OpenAI API · Llama 3 on Groq · llama.cpp · WebGPU / WebLLM · OpenCV<br />
+**Back end** — Python · FastAPI · Flask · Node.js · PostgreSQL · SQLite<br />
+**Front end** — TypeScript · Next.js · React 19 · Vite · Tailwind CSS<br />
+**Ship it** — AWS · Vercel · Docker · GitHub Actions · npm publishing
+
+## ✍️ Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [I put a real LLM in my portfolio. It runs on your GPU, not my server.](https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8)
+- [I built a private, offline AI chat you can run with one command: npx unmuzzled](https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl)
+- [How I Built a Safe, Anti-Ban LinkedIn MCP Server for AI Agents &lpar;Claude &amp; Cursor&rpar;](https://dev.to/rahul_agarwal18/how-i-built-a-safe-anti-ban-linkedin-mcp-server-for-ai-agents-claude-cursor-15o0)
+- [OKF vs RAG: Why RAG Alone is Failing Enterprise AI Agents &lpar;And What&#39;s Next&rpar;](https://dev.to/rahul_agarwal18/okf-vs-rag-why-rag-alone-is-failing-enterprise-ai-agents-and-whats-next-2d34)
+- [How I Legally Slashed Anthropic Claude API &amp; Claude Code Bills by 70%](https://dev.to/rahul_agarwal18/how-i-legally-slashed-anthropic-claude-api-claude-code-bills-by-70-19b4)
+<!-- BLOG-POST-LIST:END -->
+
+## 📟 Résumé in your terminal
 
 ```bash
 npx rahulagarwal18
 ```
 
-You'll see an interactive, hacker-style resume card! 
-
----
-
-## 🔗 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rahul-agarwal-ai/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://rahul-agarwal.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=222" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rahulagaral1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>💻 Languages</h3>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>🌐 Frameworks</h3>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.net&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🧠 Libraries & AI</h3>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
-    </td>
-    <td valign="top" width="50%">
-      <h3>⚙️ Tools & Platforms</h3>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ghost-15171A?style=flat-square&logo=ghost&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zoho-E31837?style=flat-square&logo=zoho&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-      <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🚀 Featured Projects
-
-Here are some of my highlighted projects that demonstrate my skills in computer vision, deep learning, full-stack development, and IoT integrations.
-
-### 🧠 [NeuralDocs — Intelligent AI Document RAG System](https://github.com/rahulagarwal18/NeuralDocs)
-* **Description**: An advanced enterprise-grade Retrieval-Augmented Generation (RAG) pipeline built using LangChain, FAISS, and Meta's Llama-3.3 LLM. Allows users to upload massive PDFs and semantically query them in real-time through a stunning glassmorphism web interface.
-* **Stack**: `Python` • `Flask` • `LangChain` • `FAISS` • `Llama-3` • `Groq API` • `HuggingFace`
-
-### 🌌 [GitPulse — Cinematic Developer Storyteller](https://rahul-agarwal.in/gitpulse)
-* **Live Application**: [rahul-agarwal.in/gitpulse](https://rahul-agarwal.in/gitpulse)
-* **Description**: A premium, interactive web application that transforms standard GitHub profiles and repository logs into glowing, animated contribution universes. Includes **Stellar Duel** comparison mode to duel with other developers live!
-* **Stack**: `HTML5 Canvas` • `CSS (Glassmorphism)` • `GSAP (Animations)` • `JavaScript`
-
-### 🛠️ [Live OMR Scanner System](https://github.com/rahulagarwal18/omrscanner)
-* **Description**: A real-time OMR sheets scanning pipeline featuring camera integration. It automates result grading and exports clean CSV reports.
-* **Stack**: `Python` • `OpenCV` • `Flask` • `SQLite`
-
-### 🗺️ [Smart 360° Navigation](https://github.com/rahulagarwal18/yprstreetview)
-* **Description**: An interactive 360° virtual campus tour utilizing directional mapping. Features hardware/robotic guide integration for physical navigation.
-* **Stack**: `JavaScript` • `Panolens.js` • `IoT` • `Robotics`
-
-### 👤 [Face Recognition Attendance](https://github.com/rahulagarwal18/Automation-Project-)
-* **Description**: AI-driven biometric attendance scanner providing instant face identification, real-time logging, and administrative management.
-* **Stack**: `Python` • `OpenCV` • `Flask` • `SQLite`
-
-### 🎨 [Connect App (Event Booking App)](https://github.com/rahulagarwal18/Event-booking-app-figma)
-* **Description**: A modern, sleek event discovery and booking UI designed in Figma, focusing on minimalistic visuals and optimal navigation flows.
-* **Stack**: `Figma` • `UI/UX Design` • `Interactive Prototyping`
-
-### 🏷️ [Barcode Generator Utility](https://github.com/rahulagarwal18/barcode-generator)
-* **Description**: Bulk barcode generating tool built for library automation. Allows users to configure ranges and download formatted PDFs ready for printing.
-* **Stack**: `Flask` • `Python` • `ReportLab`
-
-### 🧠 [CNN Image Classifier](https://github.com/rahulagarwal18/parsing)
-* **Description**: A deep convolutional neural network model trained on CIFAR-10, optimized to classify images with high testing accuracy.
-* **Stack**: `TensorFlow` • `Keras` • `Python`
-
----
-
-## ✍️ Latest Tech Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [I built a private, offline AI chat you can run with one command: npx unmuzzled](https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl)
-- [How I Built a Safe, Anti-Ban LinkedIn MCP Server for AI Agents &lpar;Claude &amp; Cursor&rpar;](https://dev.to/rahul_agarwal18/how-i-built-a-safe-anti-ban-linkedin-mcp-server-for-ai-agents-claude-cursor-15o0)
-- [OKF vs RAG: Why RAG Alone is Failing Enterprise AI Agents &lpar;And What&#39;s Next&rpar;](https://dev.to/rahul_agarwal18/okf-vs-rag-why-rag-alone-is-failing-enterprise-ai-agents-and-whats-next-2d34)
-- [How I Legally Slashed Anthropic Claude API &amp; Claude Code Bills by 70%](https://dev.to/rahul_agarwal18/how-i-legally-slashed-anthropic-claude-api-claude-code-bills-by-70-19b4)
-- [Passion Pilot - AI-Powered Learning Journeys](https://dev.to/rahul_agarwal18/passion-pilot-ai-powered-learning-journeys-12ll)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📊 Weekly Coding Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Thursday                 167 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
-Friday                   194 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Saturday                 98 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Sunday                   190 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 01/11/2026 05:04:45 UTC
-<!--END_SECTION:waka-->
-
----
-
-## 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [Unmuzzled for Android 0.1.0 (beta)](https://github.com/rahulagarwal18/unmuzzled/releases/tag/android-v0.1.0) in [rahulagarwal18/unmuzzled](https://github.com/rahulagarwal18/unmuzzled)
-2. ❗ Opened issue [#1](https://github.com/rahulagarwal18/github-achievements-test/issues/1) in [rahulagarwal18/github-achievements-test](https://github.com/rahulagarwal18/github-achievements-test)
-3. 🔒 Closed issue [#1](https://github.com/rahulagarwal18/github-achievements-test/issues/1) in [rahulagarwal18/github-achievements-test](https://github.com/rahulagarwal18/github-achievements-test)
-<!--END_SECTION:activity-->
-
----
-
-## 📈 GitHub Insights
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahulagarwal18&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="Rahul's Activity Graph" width="100%" />
-</p>
-
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=000000" alt="Rahul's GitHub Stats" height="195" />
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide_border=true&title_color=00ffff&text_color=ffffff&bg_color=000000" alt="Top Languages" height="195" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2" valign="middle">
-      <br />
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&hide_border=true&stroke=000000&background=000000&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏙️ 3D Contribution City
-
-<p align="center">
-  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" width="100%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=ff7a3d&icon_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&hide_border=true&background=0e0e0c&ring=ff7a3d&fire=ff7a3d&currStreakNum=edebe4&sideNums=edebe4&currStreakLabel=ff7a3d&sideLabels=c9c6bd&dates=94918a" alt="GitHub streak" height="170" />
 </p>
 
 <p align="center">
-  <i>"Code is not just instructions; it is the infrastructure of tomorrow."</i>
+  <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%" />
 </p>
 
+<p align="center"><i>Open to AI engineering and full-stack roles · <a href="mailto:rahulagaral1@gmail.com">rahulagaral1@gmail.com</a></i></p>
