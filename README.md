@@ -111,7 +111,7 @@ npx rahulagarwal18
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=ff7a3d&icon_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide_border=true&title_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide=html,css&hide_border=true&title_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
