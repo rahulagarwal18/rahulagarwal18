@@ -5,11 +5,24 @@
 </p>
 
 <p align="center">
-  <a href="https://www.rahul-agarwal.in"><img src="https://img.shields.io/badge/Portfolio-rahul--agarwal.in-ff7a3d?style=flat-square" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/rahul-agarwal-ai"><img src="https://img.shields.io/badge/LinkedIn-rahul--agarwal--ai-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://dev.to/rahul_agarwal18"><img src="https://img.shields.io/badge/dev.to-27_articles-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-  <a href="https://www.npmjs.com/~rahulagarwal18"><img src="https://img.shields.io/badge/npm-rahulagarwal18-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm" /></a>
-  <a href="mailto:rahulagaral1@gmail.com"><img src="https://img.shields.io/badge/Email-rahulagaral1%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.rahul-agarwal.in">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=FF7A3D&center=true&vCenter=true&width=640&height=40&lines=AI+Engineer+%26+Full-Stack+Developer;I+ship+local+LLMs%2C+MCP+servers+%26+RAG+systems;1%2C000%2B+npm+downloads+in+two+weeks;Try+the+LLM+running+in+my+portfolio+%E2%86%92" alt="Typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.rahul-agarwal.in"><img src="https://img.shields.io/badge/Portfolio-rahul--agarwal.in-ff7a3d?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/rahul-agarwal-ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://dev.to/rahul_agarwal18"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://www.npmjs.com/~rahulagarwal18"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" /></a>
+  <a href="mailto:rahulagaral1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rahulagarwal18&color=ff7a3d&style=flat-square&label=profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rahulagarwal18?color=ff7a3d&style=flat-square&label=followers" alt="Followers" />
+  <img src="https://img.shields.io/npm/dt/unmuzzled?color=ff7a3d&style=flat-square&label=unmuzzled+downloads" alt="Unmuzzled downloads" />
+  <img src="https://img.shields.io/npm/dt/claudecut?color=ff7a3d&style=flat-square&label=claudecut+downloads" alt="ClaudeCut downloads" />
 </p>
 
 ## Hi, I'm Rahul 👋
@@ -20,19 +33,35 @@ I'm an **AI engineer and full-stack developer in Bengaluru**. I turn large langu
 - 🧪 **Before:** Founder's Intern & Full-Stack Developer at **InferWorks**, building LLM agents that cut query turnaround by ~60%.
 - 🏆 **Recognition:** UN Millennium Fellow (2025–26) · National Science Day, 1st place 2025 and 2nd place 2024.
 - 🎓 **Education:** BCA, CHRIST (Deemed to be University), Bengaluru.
+- ⚡ **Fun fact:** my [portfolio](https://www.rahul-agarwal.in) runs a real LLM in your browser, on your GPU. No server.
 
 ## 🚀 What I'm shipping
 
-| Project | What it does | Proof |
-|---|---|---|
-| **[Unmuzzled](https://github.com/rahulagarwal18/unmuzzled)** | Private, offline AI chat. Runs open-weight LLMs on your own machine with one command: `npx unmuzzled` | [![npm](https://img.shields.io/npm/dt/unmuzzled?label=downloads&color=ff7a3d&style=flat-square)](https://www.npmjs.com/package/unmuzzled) |
-| **[ClaudeCut](https://github.com/rahulagarwal18/ClaudeCut)** | Drop-in local proxy that cuts Claude API & Claude Code bills by 40–70% with correct prompt caching and model routing | [![npm](https://img.shields.io/npm/dt/claudecut?label=downloads&color=ff7a3d&style=flat-square)](https://www.npmjs.com/package/claudecut) |
-| **[LinkedIn Guardrail MCP](https://github.com/rahulagarwal18/Linkedin_MCP)** | Account-safe MCP server that lets Claude, Cursor and Windsurf work on LinkedIn: jobs, profiles, posts, messages | [write-up](https://dev.to/rahul_agarwal18/how-i-built-a-safe-anti-ban-linkedin-mcp-server-for-ai-agents-claude-cursor-15o0) |
-| **[NeuralDocs](https://github.com/rahulagarwal18/NeuralDocs)** | RAG over large PDFs: FAISS + Llama 3 on Groq, sub-second answers cited to the exact source | `Python` `LangChain` `FAISS` |
-| **[rahul-agarwal.in](https://www.rahul-agarwal.in)** | My portfolio. Runs a real LLM in your browser on WebGPU, no framework, Lighthouse 100 | [write-up](https://dev.to/rahul_agarwal18/i-put-a-real-llm-in-my-portfolio-it-runs-on-your-gpu-not-my-server-1cj8) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rahulagarwal18/unmuzzled"><img src="assets/unmuzzled.png" alt="Unmuzzled — private, offline AI chat" width="100%" /></a>
+      <p align="center"><a href="https://github.com/rahulagarwal18/unmuzzled">Code</a> · <a href="https://www.npmjs.com/package/unmuzzled">npm</a> · <a href="https://dev.to/rahul_agarwal18/i-built-a-private-offline-ai-chat-you-can-run-with-one-command-npx-unmuzzled-1bl">Write-up</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rahulagarwal18/ClaudeCut"><img src="assets/claudecut.png" alt="ClaudeCut — cuts Claude API bills by 40-70%" width="100%" /></a>
+      <p align="center"><a href="https://github.com/rahulagarwal18/ClaudeCut">Code</a> · <a href="https://www.npmjs.com/package/claudecut">npm</a> · <a href="https://dev.to/rahul_agarwal18/how-i-legally-slashed-anthropic-claude-api-claude-code-bills-by-70-19b4">Write-up</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rahulagarwal18/Linkedin_MCP"><img src="assets/linkedin-mcp.png" alt="LinkedIn Guardrail MCP server" width="100%" /></a>
+      <p align="center"><a href="https://github.com/rahulagarwal18/Linkedin_MCP">Code</a> · <a href="https://dev.to/rahul_agarwal18/how-i-built-a-safe-anti-ban-linkedin-mcp-server-for-ai-agents-claude-cursor-15o0">Write-up</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/rahulagarwal18/NeuralDocs"><img src="assets/neuraldocs.png" alt="NeuralDocs — RAG over PDFs with citations" width="100%" /></a>
+      <p align="center"><a href="https://github.com/rahulagarwal18/NeuralDocs">Code</a></p>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary><b>More builds</b></summary>
+<summary><b>🧩 More builds (10)</b></summary>
 <br />
 
 | Project | Description |
@@ -50,12 +79,17 @@ I'm an **AI engineer and full-stack developer in Bengaluru**. I turn large langu
 
 </details>
 
-## 🛠️ Stack
+## 🛠️ Tech stack
 
-**AI & LLMs** — LLM agents · MCP · RAG · LangChain · FAISS · embeddings · Claude API (prompt caching) · OpenAI API · Llama 3 on Groq · llama.cpp · WebGPU / WebLLM · OpenCV<br />
-**Back end** — Python · FastAPI · Flask · Node.js · PostgreSQL · SQLite<br />
-**Front end** — TypeScript · Next.js · React 19 · Vite · Tailwind CSS<br />
-**Ship it** — AWS · Vercel · Docker · GitHub Actions · npm publishing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,react,nextjs,tailwind,vite,fastapi,flask&perline=10" alt="Languages and frameworks" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,opencv,aws,vercel,docker,githubactions,git,linux&perline=9" alt="Data, cloud and tooling" />
+</p>
+
+<p align="center">
+  <b>AI &amp; LLMs:</b> LLM agents · MCP · RAG · LangChain · FAISS · embeddings · Claude API · OpenAI API · Llama 3 on Groq · llama.cpp · WebGPU / WebLLM
+</p>
 
 ## ✍️ Latest writing
 
@@ -76,12 +110,36 @@ npx rahulagarwal18
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=ff7a3d&icon_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&hide_border=true&background=0e0e0c&ring=ff7a3d&fire=ff7a3d&currStreakNum=edebe4&sideNums=edebe4&currStreakLabel=ff7a3d&sideLabels=c9c6bd&dates=94918a" alt="GitHub streak" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=ff7a3d&icon_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide_border=true&title_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="Top languages" height="165" />
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&hide_border=true&background=0e0e0c&ring=ff7a3d&fire=ff7a3d&currStreakNum=edebe4&sideNums=edebe4&currStreakLabel=ff7a3d&sideLabels=c9c6bd&dates=94918a" alt="GitHub streak" width="70%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=rahulagarwal18&theme=onestar&no-bg=true&no-frame=true&margin-w=12&column=6" alt="GitHub trophies" /></a>
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rahulagarwal18/rahulagarwal18/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rahulagarwal18/rahulagarwal18/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/rahulagarwal18/rahulagarwal18/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+## 🏙️ 3D contribution city
+
+<p align="center">
   <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution city" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bc0KhhjJP98"><img src="music-player.svg" alt="Now playing: Come and Get Your Love" /></a>
 </p>
 
 <p align="center"><i>Open to AI engineering and full-stack roles · <a href="mailto:rahulagaral1@gmail.com">rahulagaral1@gmail.com</a></i></p>
