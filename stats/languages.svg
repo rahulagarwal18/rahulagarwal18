@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="242" viewBox="0 0 495 242" role="img" aria-label="Top languages">
+<style>
+  .t { font: 600 15px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #ff7a3d; letter-spacing: .04em; }
+  .l { font: 400 13px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #94918a; }
+  .v { font: 600 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #edebe4; }
+  .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #edebe4; }
+  .fade { animation: fade .8s ease-out both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: none; } }
+</style>
+<rect x=".5" y=".5" width="494" height="241" rx="14" fill="#0e0e0c" stroke="#2a2925"/>
+<text x="24" y="36" class="t">TOP LANGUAGES</text>
+<rect x="24.0" y="58" width="209.1" height="10" rx="3" fill="#ff7a3d"/>
+<rect x="235.1" y="58" width="169.5" height="10" rx="3" fill="#ffb37a"/>
+<rect x="406.6" y="58" width="61.2" height="10" rx="3" fill="#c9c6bd"/>
+<g class="fade" style="animation-delay:0ms"><circle cx="29" cy="99" r="5" fill="#ff7a3d"/><text x="42" y="104" class="s">JavaScript</text><text x="224" y="104" class="l" text-anchor="end">47.2%</text></g>
+<g class="fade" style="animation-delay:90ms"><circle cx="259" cy="99" r="5" fill="#ffb37a"/><text x="272" y="104" class="s">TypeScript</text><text x="454" y="104" class="l" text-anchor="end">38.4%</text></g>
+<g class="fade" style="animation-delay:180ms"><circle cx="29" cy="133" r="5" fill="#c9c6bd"/><text x="42" y="138" class="s">Python</text><text x="224" y="138" class="l" text-anchor="end">14.1%</text></g>
+<text x="24" y="226" class="l" style="font-size:11px">By code size across public repos · HTML &amp; CSS excluded</text>
+</svg>

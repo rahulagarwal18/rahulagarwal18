@@ -20,7 +20,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahulagarwal18&color=ff7a3d&style=flat-square&label=profile+views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rahulagarwal18?color=ff7a3d&style=flat-square&label=followers" alt="Followers" />
   <img src="https://img.shields.io/npm/dt/unmuzzled?color=ff7a3d&style=flat-square&label=unmuzzled+downloads" alt="Unmuzzled downloads" />
   <img src="https://img.shields.io/npm/dt/claudecut?color=ff7a3d&style=flat-square&label=claudecut+downloads" alt="ClaudeCut downloads" />
 </p>
@@ -110,16 +109,12 @@ npx rahulagarwal18
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahulagarwal18&show_icons=true&hide_border=true&title_color=ff7a3d&icon_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahulagarwal18&layout=compact&hide=html,css&hide_border=true&title_color=ff7a3d&text_color=edebe4&bg_color=0e0e0c" alt="Top languages" height="165" />
+  <img src="stats/overview.svg" alt="GitHub at a glance" width="49%" />
+  <img src="stats/languages.svg" alt="Top languages" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulagarwal18&hide_border=true&background=0e0e0c&ring=ff7a3d&fire=ff7a3d&currStreakNum=edebe4&sideNums=edebe4&currStreakLabel=ff7a3d&sideLabels=c9c6bd&dates=94918a" alt="GitHub streak" width="70%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=rahulagarwal18&theme=onestar&no-bg=true&no-frame=true&margin-w=12&column=6" alt="GitHub trophies" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=rahulagarwal18&theme=onestar&no-bg=true&no-frame=true&margin-w=12&column=6&title=Commits,Repositories,MultiLanguage,Issues,PullRequest,Experience" alt="GitHub trophies" /></a>
 </p>
 
 ## 🐍 Contribution snake
