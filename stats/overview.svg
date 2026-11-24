@@ -10,10 +10,10 @@
 <rect x=".5" y=".5" width="494" height="241" rx="14" fill="#0e0e0c" stroke="#2a2925"/>
 <text x="24" y="36" class="t">GITHUB AT A GLANCE</text>
 <g class="fade" style="animation-delay:0ms"><text x="24" y="82" class="v">857</text><text x="24" y="104" class="l">Contributions (last year)</text></g>
-<g class="fade" style="animation-delay:90ms"><text x="176" y="82" class="v">1,700</text><text x="176" y="104" class="l">npm downloads</text></g>
+<g class="fade" style="animation-delay:90ms"><text x="176" y="82" class="v">1,707</text><text x="176" y="104" class="l">npm downloads</text></g>
 <g class="fade" style="animation-delay:180ms"><text x="328" y="82" class="v">25</text><text x="328" y="104" class="l">Public repositories</text></g>
 <g class="fade" style="animation-delay:270ms"><text x="24" y="152" class="v">10 days</text><text x="24" y="174" class="l">Longest streak</text></g>
 <g class="fade" style="animation-delay:360ms"><text x="176" y="152" class="v">27</text><text x="176" y="174" class="l">Technical articles</text></g>
 <g class="fade" style="animation-delay:450ms"><text x="328" y="152" class="v">3+</text><text x="328" y="174" class="l">Years on GitHub</text></g>
-<text x="24" y="226" class="l" style="font-size:11px">Updated 23 Nov 2026 · generated in this repo</text>
+<text x="24" y="226" class="l" style="font-size:11px">Updated 24 Nov 2026 · generated in this repo</text>
 </svg>
